@@ -1,0 +1,17 @@
+{
+  "name": "bank-ocr",
+  "version": "1.0.0",
+  "description": "My Javascript/Node solution to Bank OCR from Coding Dojo with a 3 hour time limit",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test"
+  },
+  "keywords": [],
+  "author": "reesemartin",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.2.2"
+  }
+}
